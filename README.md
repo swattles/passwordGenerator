@@ -1,7 +1,7 @@
 # Sarah's Password Generator
 
 ## Deployed Application
-![Applicaiton Link](https://swattles.github.io/passwordGenerator) 
+URL https://swattles.github.io/passwordGenerator/index.html 
 
 Generate random passwords that include alphanumerical AND special characters. 
 
